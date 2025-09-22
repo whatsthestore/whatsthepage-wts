@@ -508,7 +508,7 @@ display: flex;
 .imagenConBoton{
    height: 100vh; /* ocupa toda la pantalla del celular */
     background-position: top; /* podés ajustar: top, center, bottom */
-    background-image: url("assets/sin-titulo-1.png");
+    background-image: url(/assets/sin-titulo-3.png);
 width: 100%;
   }
 
